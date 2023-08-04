@@ -1,3 +1,3 @@
-module gitee.com/AblittGolang/log
+module github.com/Ablitte/flog
 
 go 1.19
